@@ -1,8 +1,18 @@
-# lector_qr
+# ESCÁNER QR EN FLUTTER
 
-A new Flutter project.
+Ejemplo de un escáner de códigos QR desarrollado en Flutter usando la libreria *flutter_qr_bar_scanner*.
 
-## Getting Started
+![](https://github.com/codigosjunior/lector_qr/blob/main/screenshots/qrlector.jpg)
+
+### Pre-requisitos 📋
+* [flutter_qr_bar_scanner](https://pub.dev/packages/flutter_qr_bar_scanner) - Libreria para escanear códigos QR y códigos de barras utilizando la API de visión móvil de Google
+
+### Links 🌐
+
+* [Tutorial](https://codigosjunior.wordpress.com/2021/01/18/escaner-de-codigos-qr-flutter/)
+* [Video demostración](https://www.youtube.com/watch?v=eOS_tgg_obU)
+
+## Getting Started 🚀
 
 This project is a starting point for a Flutter application.
 
