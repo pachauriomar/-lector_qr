@@ -1,4 +1,4 @@
-# ESCÁNER QR EN FLUTTER
+# ESCÁNER QR EN FLUTTERrrr
 
 Ejemplo de un escáner de códigos QR desarrollado en Flutter usando la libreria *flutter_qr_bar_scanner*.
 
